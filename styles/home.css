@@ -1,0 +1,9 @@
+.time-span{
+  text-align: center;
+  align-items: center;
+  background-color: rgb(40,40,40);
+  color:white;
+  font-weight:bold;
+  font-size: 50px;
+  width:100%;
+}
